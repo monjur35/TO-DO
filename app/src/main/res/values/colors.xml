@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="transparent">#00000000</color>
     <color name="checkedBg">#bbf3e7</color>
+    <color name="textColor">#1e272e</color>
+    <color name="greyColor">#6A808080</color>
+    <color name="primary">#58a7e2</color>
 </resources>
