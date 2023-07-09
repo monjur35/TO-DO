@@ -51,6 +51,7 @@
             android:id="@+id/titleET"
             android:fontFamily="@font/roboto"
             android:imeOptions="actionNext"
+            android:inputType="text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
@@ -73,6 +74,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:imeOptions="actionDone"
+            android:inputType="text"
             android:fontFamily="@font/roboto" />
 
     </com.google.android.material.textfield.TextInputLayout>
